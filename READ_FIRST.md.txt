@@ -9,6 +9,13 @@ DEVICE MANAGER -> Update driver for "PCI standard RAM Controller" under "System 
 -----------
 
 
+DOWNLOAD VIRTIO ISO
+https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/
+Use drivers for virtio devices (storage, network ++)
+-----------
+
+
 INSTALL SPICE TOOLS
 Install everything inside "spice" folder
 -----------
+
